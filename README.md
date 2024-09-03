@@ -4,6 +4,12 @@
 
 This project involves analyzing a dataset of mouse study results to understand the effects of different drug regimens on tumor volume. The tasks include data preparation, generating summary statistics, creating visualizations (bar charts, pie charts, box plots, line plots, scatter plots), and performing correlation and regression analysis.
 
+## Usage
+Launch with 
+```
+jupyter notebook
+```
+
 ## Instructions
 
 1. Clone the repo
@@ -14,12 +20,11 @@ This project involves analyzing a dataset of mouse study results to understand t
    ```
    pip install matplotlib pandas scipy numpy
    ```
-   
-## Usage
-Launch with 
-```
-jupyter notebook
-```
+3. Open the project notebook file (started_code.ipynb) in Jupyter Notebook.
+
+4. Follow the instructions in the notebook to connect to your MongoDB database and perform data analysis and manipulation.
+
+
 
 ## License
 
